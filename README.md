@@ -19,9 +19,9 @@ Dreamstudy is an AI-powered EdTech platform built for Central Asian students. It
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="1.png" width="220" />
-  <img src="2.png" width="220" />
-  <img src="3.png" width="220" />
+  <img src="1.jpg" width="220" />
+  <img src="2.jpg" width="220" />
+  <img src="3.jpg" width="220" />
 </p>
 
 ## 🧠 Code Architecture (Sample)
